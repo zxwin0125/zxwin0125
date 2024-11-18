@@ -12,11 +12,9 @@
 > keep going<br>
 > stay active
 
-<!--
 [![zxwin0125's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxwin0125&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxwin0125&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <!--
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=49831888" target="_blank">
