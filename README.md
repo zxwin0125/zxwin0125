@@ -4,8 +4,7 @@
 
 <h6>I'm zxwin0125, a Frontend developer.</h6>
 
-- 🔭 I’m currently working on 「DIGITAL ENGINE」，responsible for Alipay huabei products
-- 🌱 I’m currently learning AI
+- 🌱 I'm looking for a job
 
 > Today is difficult, Tomorrow is much more difficult, Day after tomorrow is beautiful, But most people die tomorrow evening.<br>
 > self-discipline<br>
