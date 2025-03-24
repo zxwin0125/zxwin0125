@@ -4,7 +4,7 @@
 
 <h6>I'm zxwin0125, a Frontend developer.</h6>
 
-- 🌱 I'm looking for a job
+- 🌱 I'm working for Soochow TianGong Now！
 
 > Today is difficult, Tomorrow is much more difficult, Day after tomorrow is beautiful, But most people die tomorrow evening.<br>
 > self-discipline<br>
